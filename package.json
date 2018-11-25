@@ -1,0 +1,14 @@
+{
+  "name": "vuepress-homepage",
+  "version": "1.0.0",
+  "description": "hub site for may SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:docs": "vuepress dev docs",
+    "build:docs": "vuepress dev build"
+  },
+  "keywords": [],
+  "author": "Mitsuru Hashimoto",
+  "license": "ISC"
+}
